@@ -11,3 +11,7 @@ $ npm i express
 ```
 $ npm i body-parser
 ```
+
+```
+$ nodemon index.js
+```
